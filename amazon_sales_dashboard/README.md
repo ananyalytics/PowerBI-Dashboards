@@ -1,3 +1,3 @@
-# ⚠️ Under Construction
+# ⚠️ Ongoing Refinement
 
-Will be avaliable soon.
+This dashboard is currently under reconstruction, the final preview and outcome will be available soon.
